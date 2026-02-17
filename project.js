@@ -288,3 +288,5 @@ for(let num of halt){
     }
 }
 console.log(new_halt)
+
+console.log(new_halt)
